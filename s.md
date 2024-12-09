@@ -106,9 +106,11 @@ Crizz and Luke, two inseparable friends, left behind a treasure locked away in a
 ```
 root@localhost{crizz_rul3s_th3_gr1d}
 
-![image](https://github.com/user-attachments/assets/122178f3-10c0-4f91-a026-f9a8d5d5ba2c)
+
 
 ```
+
+![image](https://github.com/user-attachments/assets/122178f3-10c0-4f91-a026-f9a8d5d5ba2c)
 
 ---
 
